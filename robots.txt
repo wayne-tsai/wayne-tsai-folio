@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://wayne-tsai.github.io/wayne-tsai-folio/sitemap.xml
+Sitemap: https://wayne-tsai.idlab.tw/sitemap.xml
