@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
-importance: 1
+title: idLab
+description: a practical eID solution for schools & enterprises
+img: assets/img/banner-idlab.png
+redirect: https://unsplash.com
+importance: 3
 category: work
-related_publications: einstein1956investigations, einstein1950meaning
 ---
 
 Every project has a beautiful feature showcase page.

@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
+title: iWalkSafe
+description: Wearable Navigation Assistance for the Visually Impaired Based on Miniaturized Edge AI
+img: assets/img/banner-iwalksafe.png
 importance: 3
-category: fun
+category: work
 ---
 
 Every project has a beautiful feature showcase page.
