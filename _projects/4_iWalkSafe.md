@@ -5,6 +5,7 @@ description: Wearable Navigation Assistance for the Visually Impaired Based on M
 img: assets/img/banner-iwalksafe.png
 importance: 3
 category: work
+related_publications: tsai2022iwalksafe
 ---
 
 ...

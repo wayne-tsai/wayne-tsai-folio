@@ -5,7 +5,6 @@ description: decentralized voting system
 img: assets/img/banner-devote.png
 importance: 2
 category: work
-giscus_comments: true
 ---
 
 ...
