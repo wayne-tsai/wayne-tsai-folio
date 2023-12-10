@@ -1,8 +1,8 @@
 ---
 layout: page
 title: WISEtube
-description: a project with no image
-img:
+description: Help you avoid YouTube addiction by presenting visualized data of your Youtube usage and sharing the analysis with friends. 📈
+img: assets/img/banner-wisetube.png
 importance: 4
 category: course
 ---
