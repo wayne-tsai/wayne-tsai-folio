@@ -7,4 +7,4 @@ importance: 3
 category: course
 ---
 
-...
+Course project for NTHU ISS Service Oriented Architecture (SOA) course, 2021 Fall.
