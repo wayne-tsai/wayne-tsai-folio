@@ -1,7 +1,7 @@
 ---
 layout: page
 title: WISEtube
-description: Help you avoid YouTube addiction by presenting visualized data of your Youtube usage and sharing the analysis with friends.
+description: Tool to Mitigate YouTube Addiction through Visualized Data Analysis and Social Sharing Features
 img: assets/img/banner-wisetube.png
 importance: 4
 category: course

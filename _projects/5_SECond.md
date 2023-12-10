@@ -1,7 +1,7 @@
 ---
 layout: page
 title: SECond
-description: A analytic platform of public traded firms for researchers. Filter the information you want on SEC in seconds.
+description: Analytic Platform for Research on Publicly Traded Firms, Offering Custom Filters for SEC Information
 img: assets/img/banner-second.png
 importance: 3
 category: course

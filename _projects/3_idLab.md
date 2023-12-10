@@ -1,7 +1,7 @@
 ---
 layout: page
 title: idLab eID
-description: a practical eID solution for schools & enterprises
+description: Practical Electronic ID Solution for Schools and Enterprises
 img: assets/img/banner-idlab.png
 importance: 3
 category: work
