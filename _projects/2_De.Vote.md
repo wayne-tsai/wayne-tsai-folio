@@ -2,7 +2,7 @@
 layout: page
 title: De.Vote
 description: decentralized voting system
-img: assets/img/representative002.png
+img: assets/img/banner-devote.png
 importance: 2
 category: work
 ---
