@@ -6,5 +6,4 @@ img: assets/img/banner-idlab.png
 importance: 3
 category: work
 ---
-
-...
+Project Website is under maintenance. Please check back later.
