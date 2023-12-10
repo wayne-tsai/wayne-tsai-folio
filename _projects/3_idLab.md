@@ -2,7 +2,7 @@
 layout: page
 title: idLab eID
 description: a practical eID solution for schools & enterprises
-img: assets/img/banner-idlab.png
+img: assets/img/representative.003.png
 importance: 3
 category: work
 ---
