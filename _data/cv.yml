@@ -65,19 +65,19 @@
 - title: Projects
   type: time_table
   contents:
-    - title: De.Vote: Decentralized Voting System
+    - title: De.Vote - Decentralized Voting System
       year: 2022
       description:
         - Role: Leader, Backend Developer, and Security Consultant
-    - title: Aisen
+    - title: Aisen - Web-Based Gaze-Tracking Assistive Communication Aid
       year: 2019
       description:
         - Role: Leader & Lead Developer
-    - title: idLab eID
+    - title: idLab eID - Practical eID System for school & enterprise
       year: 2019
       description:
         - Role: Solo Developer
-    - title: iWalkSafe
+    - title: iWalkSafe - Wearable Navigation Assistance for the Visually Impaired
       year: 2019
       description:
         - Role: Leader & Lead Developer
