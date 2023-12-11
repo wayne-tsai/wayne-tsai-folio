@@ -1,6 +1,6 @@
 ---
 layout: page
-title: WISEtube
+title: WiseTube
 description: Tool to Mitigate YouTube Addiction through Visualized Data Analysis and Social Sharing Features
 img: assets/img/banner-wisetube.webp
 importance: 4
