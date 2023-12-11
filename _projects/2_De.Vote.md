@@ -6,5 +6,6 @@ img: assets/img/banner-devote.png
 importance: 2
 category: work
 ---
-Company Website: [https://www.devote.tw/](https://www.devote.tw/)
+Company Official Website: [https://www.devote.tw/](https://www.devote.tw/)
+
 Company Facebook: [https://www.facebook.com/devote.tw/](https://www.facebook.com/devote.tw/)
