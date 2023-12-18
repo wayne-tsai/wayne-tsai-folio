@@ -9,3 +9,5 @@ category: work
 Company Official Website: [https://www.devote.tw/](https://www.devote.tw/)
 
 Company Facebook: [https://www.facebook.com/devote.tw/](https://www.facebook.com/devote.tw/)
+
+Crowdfunding Campaign (in Chinese): [https://www.zeczec.com/projects/de-vote](https://www.zeczec.com/projects/de-vote)
