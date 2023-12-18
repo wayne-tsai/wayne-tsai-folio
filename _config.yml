@@ -165,6 +165,11 @@ collections:
       layout: post
     output: true
     permalink: /news/:path/
+  awards:
+    defaults:
+      layout: post
+    output: true
+    permalink: /awards/:path/
   projects:
     output: true
     permalink: /projects/:path/
