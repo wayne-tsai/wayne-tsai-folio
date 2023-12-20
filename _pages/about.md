@@ -13,9 +13,9 @@ profile:
     <p></p>
 
 news: true  # includes a list of news items
-awards: false # includes a list of awards and honors
+awards: true # includes a list of awards and honors
 latest_posts: false  # includes a list of the newest posts
-selected_papers: false # includes a list of papers marked as "selected={true}"
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
