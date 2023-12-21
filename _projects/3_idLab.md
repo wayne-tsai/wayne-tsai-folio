@@ -6,9 +6,8 @@ img: assets/img/banner-idlab.png
 importance: 3
 category: work
 ---
+{% include figure.html path="assets/img/banner-idlab.png" title="idLab eID" class="img-fluid rounded z-depth-1" %}
 News (formly known as NTHU eID): [https://smartcampus.site.nthu.edu.tw/p/404-1512-240744.php](https://smartcampus.site.nthu.edu.tw/p/404-1512-240744.php)
-
-Project Website is under maintenance. Please check back later.
 
 **Basic Information**
 - Total Award Grant: US$4760

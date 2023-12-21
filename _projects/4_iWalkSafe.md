@@ -7,7 +7,7 @@ importance: 3
 category: work
 related_publications: tsai2022iwalksafe
 ---
-
+{% include figure.html path="assets/img/banner-iwalksafe.png" title="iWalkSafe" class="img-fluid rounded z-depth-1" %}
 **Basic Information**
 - Total Award Grant: US$1,575
 - Team Size: 3

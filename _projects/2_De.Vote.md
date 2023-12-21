@@ -6,6 +6,7 @@ img: assets/img/banner-devote.png
 importance: 2
 category: work
 ---
+{% include figure.html path="assets/img/banner-devote.png" title="De.Vote" class="img-fluid rounded z-depth-1" %}
 Company Official Website: [https://www.devote.tw/](https://www.devote.tw/)
 
 Company Facebook: [https://www.facebook.com/devote.tw/](https://www.facebook.com/devote.tw/)

@@ -6,5 +6,5 @@ img: assets/img/banner-second.webp
 importance: 3
 category: course
 ---
-
+{% include figure.html path="assets/img/banner-second.webp" title="SECond" class="img-fluid rounded z-depth-1" %}
 Course project for NTHU ISS Service Oriented Architecture (SOA) course, 2021 Fall.

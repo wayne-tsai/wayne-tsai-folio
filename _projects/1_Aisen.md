@@ -7,6 +7,7 @@ importance: 1
 category: work
 related_publications: tsai2023aisen
 ---
+{% include figure.html path="assets/img/banner-aisen.png" title="Aisen" class="img-fluid rounded z-depth-1" %}
 Company Official Website: [https://aisen.com.tw/](https://aisen.com.tw/)\
 \
 **Basic Information**
