@@ -43,13 +43,19 @@ layout: default
 
           <!-- News -->
           {% if page.news and site.announcements.enabled -%}
-            <h2><a href="{{ '/news/' | relative_url }}" style="color: inherit;">🚀 news</a></h2>
+            <h2><a href="{{ '/news/' | relative_url }}" style="color: inherit;">news</a></h2>
             {%- include news.html limit=true %}
+          {%- endif %}
+
+          <!-- Publications -->
+          {% if page.selected_papers -%}
+            <h2><a href="{{ '/publications/' | relative_url }}" style="color: inherit;">publications</a></h2>
+            {%- include selected_papers.html %}
           {%- endif %}
 
           <!-- Awards -->
           {% if page.awards -%}
-            <h2><a href="{{ '/awards/' | relative_url }}" style="color: inherit;">🏆 awards</a></h2>
+            <h2><a href="{{ '/awards/' | relative_url }}" style="color: inherit;">awards</a></h2>
             {%- include awards.html %}
           {%- endif %}
 
@@ -57,12 +63,6 @@ layout: default
           {% if page.latest_posts -%}
             <h2><a href="{{ '/blog/' | relative_url }}" style="color: inherit;">latest posts</a></h2>
             {%- include latest_posts.html %}
-          {%- endif %}
-
-          <!-- Selected papers -->
-          {% if page.selected_papers -%}
-            <h2><a href="{{ '/publications/' | relative_url }}" style="color: inherit;">📝 publications</a></h2>
-            {%- include selected_papers.html %}
           {%- endif %}
 
           <!-- Social -->
