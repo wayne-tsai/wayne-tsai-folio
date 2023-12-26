@@ -20,4 +20,4 @@ News (formly known as NTHU eID): [https://smartcampus.site.nthu.edu.tw/p/404-151
 **🏆 4,760 USD Implementation Grant**&nbsp;\
 Smart Campus Project\
 *National Tsing Hua University, Taiwan*\
-**2023**
+**Jul 2022**

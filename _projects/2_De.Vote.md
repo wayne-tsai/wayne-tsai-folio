@@ -23,9 +23,9 @@ Crowdfunding Campaign (in Chinese): [https://www.zeczec.com/projects/de-vote](ht
 ---
 **🏆 13,500 USD Grant**&nbsp; Public Welfare Innovation Case 100\
 *Ministry of Digital Affairs, Taiwan*\
-**2023**
+**Aug 2023**
 
 **🏆 Top 20 Startup, with 4,300 USD Grant**&nbsp;\
 *National Science and Technology Council, Taiwan*\
 *(previously known as MOST, Ministry of Science and Technology)*\
-**2023**
+**Sep 2022**

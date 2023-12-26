@@ -18,54 +18,58 @@ Company Official Website: [https://aisen.com.tw/](https://aisen.com.tw/)\
 
 ## Recognition
 ---
+**🏅 Finalist**&nbsp; Student Innovation Contest\
+*The ACM Symposium on User Interface Software and Technology (UIST)*\
+**Oct 2023**
+
 **🏆 14,000 USD Grant**&nbsp; Public Welfare Innovation Case 100\
 *Ministry of Digital Affairs, Taiwan*\
-**2023**
+**Aug 2023**
 
 **:3rd_place_medal: 3rd Place Award & Industrial Special Award (1,200 USD)**&nbsp;\
 National Compassionate Science and Technology Innovation Competition\
 *Tzu Chi Foundation, Taiwan*\
-**2022**
+**Oct 2022**
 
 **🏅 Distinguished Award**&nbsp;\
 International University Innovation and Entrepreneurship Competition\
 *National Chung Cheng University*\
-**2021**
+**Oct 2021**
 
 **:1st_place_medal: Champion (Best Team Award)**&nbsp;\
 *Startup Garage, National Tsing Hua University*\
-**2021**
+**Oct 2021**
 
 **🏆 3,500 USD Grant**&nbsp; Company Simulation Operation Plan\
 *Ministry of Education, Taiwan*\
-**2020**
+**Feb 2020**
 
 **:2nd_place_medal: Silver Award**&nbsp;\
 Shanghai Jiao Tong University Entrepreneurship Competition\
 *Shanghai Jiao Tong University, China*\
-**2019**
+**Jul 2019**
 
 **:1st_place_medal: Champion (Best Potential Award)**&nbsp;\
 AppUniverz Campus Entrepreneurship Incubation Platform\
 AppUniverz, Taiwan\
-**2019**
-
-**🏆 3,500 USD Grant**&nbsp; University Crowdfunding Platform\
-*Ministry of Education, Taiwan*\
-**2019**
+**Jul 2019**
 
 **:2nd_place_medal: Silver Award**&nbsp;\
 Tsinghua Entrepreneurship Day AI Group\
 *National Tsing Hua University, Taiwan*\
-**2019**
+**May 2019**
+
+**🏆 3,500 USD Grant**&nbsp; University Crowdfunding Platform\
+*Ministry of Education, Taiwan*\
+**Mar 2019**
 
 **:1st_place_medal: Champion**&nbsp;\
 Tsinghua Crowdfunding Demo Day\
 *National Tsing Hua University, Taiwan*\
-**2019**
+**Dec 2019**
 
 **:1st_place_medal: Champion ([News](https://www.chinatimes.com/newspapers/20180811000669-260107?chdtv)**)&nbsp;\
 Startup, Starts Now! New Southbound Entrepreneurship Camp\
 *Ministry of Education, Taiwan*\
-**2018**
+**Aug 2018**
 
