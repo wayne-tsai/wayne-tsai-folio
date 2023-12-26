@@ -8,3 +8,5 @@ category: course
 ---
 {% include figure.html path="assets/img/banner-wisetube.webp" title="WiseTube" class="img-fluid rounded z-depth-1" %}
 Course project for NTHU ISS Service Security course, 2022 Spring.
+
+The demo site is down because Heroku is not free anymore. You can still check the [Github Repo](https://github.com/Gammaly) for more information.
