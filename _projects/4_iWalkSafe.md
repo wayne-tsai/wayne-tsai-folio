@@ -19,4 +19,4 @@ related_publications: tsai2022iwalksafe
 **:2nd_place_medal: Silver Award**&nbsp;\
 Intelligent SoC Innovative Project Contest\
 *Ministry of Education, Taiwan*\
-**2019**
+**Aug 2022**
