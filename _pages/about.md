@@ -5,7 +5,7 @@ permalink: /
 subtitle: <a href='https://nthu-en.site.nthu.edu.tw/index.php'>National Tsing Hua University</a>. Master's Student, Institute of Information Security
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.webp
   image_circular: false # crops the image to make it circular
   more_info: >
     Here is my <a href="/assets/pdf/CV_Wei-En_Tsai_231213.pdf" target="_blank">latest CV 📄</a>
