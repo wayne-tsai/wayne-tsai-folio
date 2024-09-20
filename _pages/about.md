@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.washington.edu'>University of Washington</a>. Master's Student in Technology Innovation
+subtitle: Master's Student in Technology Innovation, <a href='https://www.washington.edu'>University of Washington</a>
 profile:
   align: right
   image: prof_pic.webp
