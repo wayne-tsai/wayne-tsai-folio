@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://nthu-en.site.nthu.edu.tw/index.php'>National Tsing Hua University</a>. Master's Student, Institute of Information Security
+subtitle: <a href='https://www.washington.edu'>University of Washington</a>. Master's Student in Technology Innovation
 profile:
   align: right
   image: prof_pic.webp
