@@ -19,6 +19,14 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hello!👋 I'm a student with a keen interest in development and entrepreneurship. I've had the opportunity to work at the intersection of technology, finance, and entrepreneurship. My entrepreneurial spirit led me to establish projects like De.Vote, a high-security voting system, and Aisen, an eye-tracking communication aid. Both initiatives have evolved into startups and have garnered recognition on both national and international platforms.
+Hello! 👋 I'm a Software Engineer and Computer Science student specializing in distributed systems and full-stack development. With a strong foundation in backend architecture, I've built high-performance systems processing 500+ TPS and developed ML-powered applications that solve real-world challenges.
 
-Driven by a passion for innovation and a commitment to creating impactful solutions, I continuously seek opportunities to learn and grow. Opportunities for further discussion or collaboration are always appreciated. 💻
+My technical journey includes architecting De.Vote's scalable voting platform using Ruby/Puma with multi-process workers, and developing Aisen's cost-effective eye-tracking solution using WebGazer.js and React. These projects showcase my expertise in:
+• Distributed Systems & High-Performance Backend Architecture
+• Full-Stack Development (Ruby, Python, JavaScript, React)
+• Cloud Infrastructure & DevOps (AWS, Docker, Kubernetes)
+• Machine Learning Integration & Real-Time Processing
+
+Currently pursuing my MS in Technology Innovation at UW with a focus on Computer Science, I combine technical depth with entrepreneurial experience to build impactful software solutions. My work has been recognized through a granted patent, publications at ACM UIST, and national startup awards.
+
+Let's connect and discuss technology, software architecture, or potential collaborations! 💻
