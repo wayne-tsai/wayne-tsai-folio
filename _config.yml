@@ -2,15 +2,15 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Wei-En Tsai # the website title (if blank, full name will be used instead)
-first_name: Wei-En
-middle_name: (Wayne)
+title: Wayne Tsai # the website title (if blank, full name will be used instead)
+first_name: Wayne
+middle_name: (Wei-En)
 last_name: Tsai
-email: schwarz.tsai@gmail.com
+email: entr.wayne@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Wei-En (Wayne) Tsai's personal website.
+  Wayne (Wei-En) Tsai's personal website.
 footer_text: >
-keywords: wei-en, wei-en tsai, wayne tsai, 惟恩, 蔡惟恩  # add your own keywords or leave empty
+keywords: wei-en, wei-en tsai, wayne tsai, 惟恩, 蔡惟恩, uw, msti, gix, gix@uw  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: memoji_no_bg.ico  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
