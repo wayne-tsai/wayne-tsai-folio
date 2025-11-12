@@ -19,16 +19,18 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hello! 👋 I'm a Software Engineer and Computer Science student specializing in distributed systems and full-stack development. With a strong foundation in backend architecture, I've built high-performance systems processing 500+ TPS and developed ML-powered applications that solve real-world challenges.
+Hello! 👋 I'm Wayne — a software engineer who ships production-grade ML and distributed systems. I love taking ambiguous problems, building scalable services, and hardening them for reliability. Most recently, as a Software Engineering Intern at Dareesoft, I modernized our hazard intelligence platform and delivered a GPU-accelerated spatial pipeline that slashed latency and unlocked richer data stories for city partners.
 
-My technical journey includes architecting De.Vote's scalable voting platform using Ruby/Puma with multi-process workers, and developing Aisen's cost-effective eye-tracking solution using WebGazer.js and React. These projects showcase my expertise in:
+Previously, I co-founded De.Vote and Aisen Technology while completing my graduate and undergraduate studies. At De.Vote, I designed a Ruby/Puma voting platform that exceeds 500+ TPS, containerized the stack, and rolled out CI/CD for reliable production operations. At Aisen, I created a full-stack assistive-communication system powered by WebGazer.js, React, and AWS that replaced dedicated eye-trackers with commodity webcams—lowering deployment costs by 99%.
+
+These roles sharpened my focus on:
 <ul>
-        <li>Distributed Systems & High-Performance Backend Architecture</li>
-        <li>Full-Stack Development (Ruby, Python, JavaScript, React)</li>
-        <li>Cloud Infrastructure & DevOps (AWS, Docker, Kubernetes)</li>
-        <li>Machine Learning Integration & Real-Time Processing</li>
+        <li>High-performance backend architecture and distributed systems</li>
+        <li>Full-stack product delivery with Ruby, Python, JavaScript, and React</li>
+        <li>Cloud infrastructure, DevOps, and MLOps across AWS, GCP, and Kubernetes</li>
+        <li>Human-centered ML interfaces that translate research into impact</li>
     </ul>
 
-Currently pursuing my MS in Technology Innovation at UW with a focus on Computer Science, I combine technical depth with entrepreneurial experience to build impactful software solutions. My work has been recognized through a granted patent, publications at ACM UIST, and national startup awards.
+I'm pursuing an MS in Technology Innovation (Computer Science) at the <a href='https://www.washington.edu'>University of Washington</a>, following a BSc in Computer Science & Quantitative Finance from National Tsing Hua University. My research and product work have led to publications at ACM UIST and the VLSI Design/CAD Symposium, along with a granted patent on privacy-preserving proxy voting.
 
-Let's connect and discuss technology, software architecture, or potential collaborations! 💻
+When I'm not prototyping new ideas, you'll find me iterating on AI-assisted networking projects—like optimizing 5G router traffic—or exploring ways to translate research innovations into everyday tools. Let's connect about distributed systems, human-machine interfaces, or your next product challenge! 💻
