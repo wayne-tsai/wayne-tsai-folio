@@ -8,7 +8,7 @@ profile:
   image: prof_pic.webp
   image_circular: false # crops the image to make it circular
   more_info: >
-    Here is my <a href="/assets/pdf/CV_Wayne_Wei-En_Tsai-251111.pdf" target="_blank">latest CV 📄</a>
+    Here is my <a href="/assets/pdf/CV_Wei-En_Wayne_Tsai_0423.pdf" target="_blank">latest CV 📄</a>
     <p></p>
     <p></p>
 
