@@ -3,7 +3,7 @@ layout: page
 title: idLab eID
 description: Practical Electronic ID Solution for Schools and Enterprises
 img: assets/img/banner-idlab.png
-importance: 3
+importance: 4
 category: work
 ---
 {% include figure.html path="assets/img/banner-idlab.png" title="idLab eID" class="img-fluid rounded z-depth-1" %}

@@ -3,7 +3,7 @@ layout: page
 title: De.Vote
 description: Decentralized Voting System with Patented Blockchain and Trust-Computing Technology
 img: assets/img/banner-devote.png
-importance: 2
+importance: 3
 category: work
 ---
 {% include figure.html path="assets/img/banner-devote.png" title="De.Vote" class="img-fluid rounded z-depth-1" %}
